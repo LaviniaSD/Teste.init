@@ -1,22 +1,22 @@
 # Robô de avaliação de investimentos
 > Status: Em andamento...
 
-Tabela de conteúdos
+### Índice
 =================
-<!--ts-->
+
    * [Sobre o projeto](#sobre)
-   * [Linguagens utilizadas](#linguagens)
    * [Pré Requisitos](#pre-requisitos)
    * [Como ler esse projeto?](#como-ler)
    * [Nossa Equipe](#equipe)
 
-<!--te-->
+
 
 
 <h3 id=sobre>Sobre o projeto:<h3>
 
 Este projeto tem como objetivo ler uma página web que contenha uma carteira financeira com moedas e ações e suas respectivas quantidades e levar essas informações para uma planilha excel.
-A planilha conterá cada ativo, sua quantidade e o valor total que o proprietário da carteira possui em reais. Além disso, a planilha conterá gráficos referentes ao histórico de cotação de alguns ativos e um Qrcode com o valor total que o proprietário possui em reais na carteira disponibilizada.
+
+  A planilha conterá cada ativo, sua quantidade e o valor total que o proprietário da carteira possui em reais. Além disso, a planilha conterá gráficos referentes ao histórico de cotação de alguns ativos e um Qrcode com o valor total que o proprietário possui em reais na carteira disponibilizada.
 
 <h3 id=pre-requisitos>Pré requisitos:<h3>
 
@@ -57,3 +57,5 @@ pip install beautifulsoup4
 -[Carteira 1](https://laviniasd.github.io/Robo-de-Avaliacao-de-Investimentos/index.html)
 -[Carteira 2](https://laviniasd.github.io/Robo-de-Avaliacao-de-Investimentos/site2/pagina2.html)
 -[Carteira 3](https://laviniasd.github.io/Robo-de-Avaliacao-de-Investimentos/site3/pagina3.html)
+  
+
