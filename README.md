@@ -53,6 +53,6 @@ pip install beautifulsoup4
 -[] Coloque todos os módulos na mesma pasta de seu computador
 -[] Execute o módulo principal.py
 -[] insira uma URL que atenda aos pré-requisitos,caso não tenha uma, utilize nossas carteiras teste:
-*[Carteira 1](https://laviniasd.github.io/Robo-de-Avaliacao-de-Investimentos/index.html)
-*[Carteira 2](https://laviniasd.github.io/Robo-de-Avaliacao-de-Investimentos/site2/pagina2.html)
-*[Carteira 3](https://laviniasd.github.io/Robo-de-Avaliacao-de-Investimentos/site3/pagina3.html)
+-[Carteira 1](https://laviniasd.github.io/Robo-de-Avaliacao-de-Investimentos/index.html)
+-[Carteira 2](https://laviniasd.github.io/Robo-de-Avaliacao-de-Investimentos/site2/pagina2.html)
+-[Carteira 3](https://laviniasd.github.io/Robo-de-Avaliacao-de-Investimentos/site3/pagina3.html)
